@@ -3,9 +3,11 @@
 for more information please follow the below link.
 Note: It is a normal stateless laravel App
 
-Catalog service Back Office: For catalog stockholders ( content creator, CX, POs, etc...)
-after completing successful system setup you can access through this URL : http://e-commerce.local/admin/
-UID  : admin@admin.comPWD: password 
+###Back Office: For ( content creator, CX, POs, etc...)
+after completing successful system setup you can access through this URL: 
+-http://e-commerce.local/admin/
+-UID  : admin@admin.com
+-PWD: password 
 
 [e-commerce system](https://github.com/waelwalid/e-commerce-micro "e-commerce system")
 
