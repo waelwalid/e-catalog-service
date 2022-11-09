@@ -3,7 +3,7 @@
 for more information please follow the below link.
 Note: It is a normal stateless laravel App
 
-###Back Office: For ( content creator, CX, POs, etc...)
+##Back Office: For ( content creator, CX, POs, etc...)
 after completing successful system setup you can access through this URL: 
 
 - http://e-commerce.local/admin/
